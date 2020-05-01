@@ -1,7 +1,7 @@
 package problem1010_test
 
 import (
-	"leetcode_go/problem1010"
+	"leetcode-by-golang/problem1010"
 	"fmt"
 )
 
